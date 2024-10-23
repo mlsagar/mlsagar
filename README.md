@@ -1,4 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sagar Maharjan======================================================================================================================================Frontend Engineer-----------------I am a frontend engineer who love JS.* 🌍  I'm based in United States of America* ✉️  You can contact me at [shagarmaharjan@gmail.com](mailto:shagarmaharjan@gmail.com)* 🤝  I'm open to collaborating on Projects* ⚡  I'm secret agent.... but don't tell anyone
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Sagar Maharjan
+======================================================================================================================================
+Frontend Engineer
+-----------------
+I am a frontend engineer who love JS.* 
+🌍  I'm based in United States of America* 
+✉️  You can contact me at [shagarmaharjan@gmail.com](mailto:shagarmaharjan@gmail.com)* 
+🤝  I'm open to collaborating on Projects* 
+⚡  I'm secret agent.... but don't tell anyone
 
 ### Skills
 
